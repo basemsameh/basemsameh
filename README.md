@@ -1,6 +1,9 @@
 # Hi there, I'm Basem Sameh 👋
 ### Frontend Developer | Angular Specialist | MIS Student @ Faculty of Commerce
 
+<!-- [![Repos Badge](https://badges.pufler.dev/repos/basemsameh)](https://badges.pufler.dev) -->
+
+<img src="https://komarev.com/ghpvc/?username=basemsameh&label=Profile%20views&color=0e75b6&style=flat" alt="basemsameh" />
 
 ## 💫 About Me:
 I’m a passionate Frontend Developer in my final year at the Faculty of Commerce (MIS). I specialize in building scalable web applications using Angular and TypeScript. With a solid foundation from MEC Academy, I focus on creating clean, responsive designs and solving complex UI challenges. I’ve delivered projects ranging from E-commerce platforms to internal Management Systems, always prioritizing performance and user experience.
